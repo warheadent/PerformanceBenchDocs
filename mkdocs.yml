@@ -2,8 +2,8 @@ site_name: Performance Benchmark Plugin
 
 theme:
     name: 'material'
-    logo: logo.png
-    favicon: favicon.png
+    logo: images/logo.png
+    favicon: images/favicon.png
     
     palette:
 
