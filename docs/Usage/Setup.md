@@ -26,8 +26,14 @@ The goal of the plugin is to make it incredibly easy for developers to drag and 
 1. Locate **BP_PerfBench_TestManager** in the Content Browser and drag it into the level
 2. Find the **Benchmark Sequence** variable in the Details panel and change to the intended Level Sequence used for the Performance Benchmark analysis
 3. (Optional) Adjust the **Warmup Time** to account for any asset streaming
-4. Change the **Auto Play** from false to true
+
+Developers have the option via the **Auto Play** variable to either have the Test Manager automatically begin testing on Begin Play, or manually start the test.
 
 ![[TestManagerConfiguration.png]]
 
 It should be noted that this plugin does not automatically set up any benchmark sequence track. Developers are responsible for creating a Level Sequence within their levels that the TestManager can reference.
+
+### Manual Start
+Developers that wish to have more manual control over when the performance benchmark starts can call the **StartPerfBenchTest** interface function after unchecking the **Auto Play** boolean.
+
+![[ManualStartBPExample.png]]
