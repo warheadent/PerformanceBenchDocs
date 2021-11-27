@@ -2,7 +2,7 @@
 
 The grading system within Performance Benchmark is done based on tiers of performance.
 
-![Image of Grading System](images/gradingsystem.png)
+![[GradingSystem.png]]
 
 The different tiers are driven by some float parameters found within TestManager.
 
