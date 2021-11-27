@@ -1,6 +1,6 @@
 # Home
 
-The Peformance Benchmark plugin is designed to be a simple, easy to use performance analysis tool geared for distribution to end-users.
+The Performance Benchmark plugin is designed to be a simple, easy to use performance analysis tool geared for distribution to end-users.
 
 ![[HomePageFeature.png]]
 
