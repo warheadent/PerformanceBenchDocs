@@ -2,7 +2,7 @@
 
 ## Locating Plugin Contents
 
-After downloading and enabling the plugin within the project, developers should go to their Content Browser and locate the **PerfformanceBenchTest** plugin content folder.
+After downloading and enabling the plugin within the project, developers should go to their Content Browser and locate the **PerformanceBenchTest** plugin content folder.
 
 Developers that do not see any plugin content folders should enable the option to see it within their Content Browser, found in the bottom right of the window under **View Options**.
 
