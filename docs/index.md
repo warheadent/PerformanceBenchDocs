@@ -1,11 +1,11 @@
-# Obsidian Notes
+# Performance Benchmark UE4 Plugin
 
-Publish your public notes with MkDocs
+The Peformance Benchmark plugin is designed to be a simple, easy to use performance analysis tool geared for distribution to end-users.
 
-## Hello World!
+## Features
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- Drop-in Performance Benchmark Test Manager
+- Scoring and Grading system, automatically calculated by Level Sequence frame time
+	- Grading system is configurable which is defined as target percentages
+- Beautiful interface showcasing a quick overview of performance results and score
+- C++ Functions to pull important system details such as Processor, Physical Memory, Graphics Card.
