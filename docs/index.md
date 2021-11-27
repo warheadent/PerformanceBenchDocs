@@ -4,6 +4,8 @@ The Peformance Benchmark plugin is designed to be a simple, easy to use performa
 
 ![[HomePageFeature.png]]
 
+Just picked up the plugin and want to know how to use it? Go to [[Setup]] to get started!
+
 ## Features
 
 - Drop-in Performance Benchmark Test Manager
