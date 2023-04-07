@@ -14,16 +14,6 @@ Just picked up the plugin and want to know how to use it? Go to [[Setup]] to get
 - Beautiful interface showcasing a quick overview of performance results and score
 - C++ Functions to pull important system details such as Processor, Physical Memory, Graphics Card.
 
-### Planned Features
-
-- Themes
-	- Presets
-	- Custom defined
-- Adjustable Quality Presets
-- GPU Driver detection and reporting
-- Exportable Data
-	- Hook up to your own Analytics backend, third-party solutions or logged locally
-
 ## Support
 
 Need help with using the plugin? We can provide you with support via Discord.
