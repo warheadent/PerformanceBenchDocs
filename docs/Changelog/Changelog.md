@@ -3,8 +3,7 @@
 Releases are designated as simple version numbers. Any hotfixes will still be considered part of the same "version" when an update is pushed.
 
 ### V3
-*Release pending*
-
+*Released 4/7/2023
 *Versions: 5.0, 5.1, 5.2*
 
 This release adds and improves on nearly every aspect of the plugin. With this release, we're sunsetting 4.27 support since this update was produced within 5.0 and Unreal doesn't handle binary backwards compatibility that well. If there is significant need for a 4.27 backport, let me know.
