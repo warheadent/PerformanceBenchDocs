@@ -18,6 +18,6 @@ Just picked up the plugin and want to know how to use it? Go to [[Setup]] to get
 
 Need help with using the plugin? We can provide you with support via Discord.
 
-Discord: http://discord.gg/warheadent
+Discord: [http://discord.gg/warheadent](https://discord.gg/NJYdBqjXaF)
 
 Support is limited to issues with the plugin contents itself (User Interface Widgets, TestManager) - Feedback is welcome!
